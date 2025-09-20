@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
  </a>
  
- <a href="https://auth.geeksforgeeks.org/user/rahmashahbaz" target="_blank">
+ <a href="https://www.geeksforgeeks.org/user/aar61ehwp/" target="_blank">
  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
  </a>
  
@@ -26,8 +26,8 @@
  </a>
 </p>
 
----
 
+---
 ## 📊 GitHub Stats 
 
 <p align="center">
