@@ -69,6 +69,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithsami1234&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsami1234&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
@@ -81,8 +84,9 @@
 ## 👀 Visitors  
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/codewithsami1234/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=codewithsami1234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 ---
 
