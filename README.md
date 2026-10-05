@@ -1,13 +1,16 @@
-# 👋 Hi, I'm Rahma Shahbaz!  
-💻 Turning coffee ☕ into code and building **innovative web solutions** | 🚀 Passionate about technology & learning every day
+# Rahma Shahbaz
 
-🎓 An **Information Technology Student** from Pakistan  
-🌱 Currently diving deep into **Web Application Development**
+**BS Information Technology** student · Government Graduate College Sahiwal  
+*(Affiliated with the University of the Punjab, Lahore · 2023–2027)*
+
+I build **AI/Python applications**, **full-stack web apps**, **mobile application development** and **practical student/utility tools** — from computer-vision demos and LLM agents to MERN authentication and GPA calculators.
+
+Open to **hackathon teammates**, **open-source collaboration**, and **internship / junior developer** conversations.
+
+---
 
 📫 **How to reach me:**  
 📧 Email: **rsak3232@gmail.com**
-
----
 
 ## 💻 Connect with Me  
 
@@ -31,7 +34,33 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/9462d121-7603-4b26-a52e-60b7f41908ea" />
+## What I focus on
+
+| Priority | Areas |
+|----------|--------|
+| 1 | **AI + Python** — computer vision, CNN/ViT models, LangGraph agents, Gemini |
+| 2 | **Full-stack web** — React, Node.js, Express, MongoDB, JWT auth |
+| 3 | **Mobile-application** — Java, SQLite|
+| 4 | **Practical applications** — Flask/Streamlit UIs, REST APIs, Hugging Face / API integrations |
+| 5 | **Learning in public** — demos, docs, and open collaboration / hackathon teamwork |
+| 6 | **CS foundations** — DSA practice (C++ / Python / JS) |
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---------|------------|--------|
+| [BloodGroupUsingFingerPrint](https://github.com/codewithsami1234/BloodGroupUsingFingerPrint) | Educational CNN app that predicts blood-group class from a fingerprint image (Flask UI). **Not medical advice.** | Python, TensorFlow/Keras, CNN, Flask |
+| [RealVsFakeImage](https://github.com/codewithsami1234/RealVsFakeImage) | Detects **real vs AI-generated** images with a Vision Transformer; live frontend + HF backend. | Python, ViT, Gradio/HF, web UI |
+| [Chatbot_using_langgraph](https://github.com/codewithsami1234/Chatbot_using_langgraph) | Agentic chatbot using a LangGraph workflow with Google Gemini and a Streamlit UI. | Python, LangGraph, LangChain, Gemini, Streamlit |
+| [Profile-authentication](https://github.com/codewithsami1234/Profile-authentication) | MERN profile app with registration, login, JWT sessions, and profile updates. | React, Node.js, Express, MongoDB, JWT |
+| [PU-GPA-and-CGPA-calculator](https://github.com/codewithsami1234/PU-GPA-and-CGPA-calculator) | GPA/CGPA calculator for the University of the Punjab grading scale — [live demo](https://codewithsami1234.github.io/PU-GPA-and-CGPA-calculator/). | HTML, CSS, JavaScript, Bootstrap, Tailwind |
+| [Invisible_Cloak](https://github.com/codewithsami1234/Invisible_Cloak) | Real-time “invisible cloak” effect with OpenCV (yellow cloth + background substitution). | Python, OpenCV |
+
+**Also notable:** [AI-image-Generator](https://github.com/codewithsami1234/AI-image-Generator) (Hugging Face Inference API), [Pokemon-puzzle-game](https://github.com/codewithsami1234/Pokemon-puzzle-game) (React), [User-management-System](https://github.com/codewithsami1234/User-management-System) (Express + SQLite CRUD), [Shooter_game](https://github.com/codewithsami1234/Shooter_game) (Pygame), [SmartAttendanceSystem](https://github.com/codewithsami1234/SmartAttendanceSystem) (Android).
+
+---
 
 ## 🚀 Tech Stack  
 
@@ -63,8 +92,24 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python"/></a>
 </div>
 
+🤖 AI / ML
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" title="TensorFlow"/> <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV" title="OpenCV"/> <img src="https://skillicons.dev/icons?i=huggingface" height="50" alt="Hugging Face" title="Hugging Face"/> <img src="https://skillicons.dev/icons?i=google" height="50" alt="Google Gemini" title="Google Gemini"/> <img src="https://skillicons.dev/icons?i=langchain" height="50" alt="LangChain" title="LangChain"/> <img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" title="Streamlit"/> <img src="https://skillicons.dev/icons?i=gradio" height="50" alt="Gradio" title="Gradio"/> </div>
+
+AI concepts: CNN · Vision Transformers (ViT) · LangGraph
+
+🛠️ Tools & Platforms
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git"/> <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub"/> <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" title="Jupyter"/> <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="Android Studio" title="Android Studio"/> <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" title="Vercel"/> </div>
+
 ---
 
+## Practice & activity
+
+- Problem-solving practice: [DSA](https://github.com/codewithsami1234/DSA) · [neetcode-submissions](https://github.com/codewithsami1234/neetcode-submissions) · [LeetCode](https://leetcode.com/u/sami_1234/)
+- I prefer shipping **working demos + clear READMEs** over empty template repos.
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -90,4 +135,13 @@
 
 ---
 
-✨ *"Coding today, innovating tomorrow — always curious, always learning."* 🚀
+## Let’s build something
+
+I’m especially interested in:
+
+- AI / computer-vision / LLM agent projects  
+- Full-stack apps with clean auth and APIs  
+- Hackathon teams that need a reliable builder + documenter  
+
+
+If you’re a recruiter, teammate, or open-source maintainer — feel free to open an issue on a repo or email me. Happy to collaborate.
